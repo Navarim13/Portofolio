@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
+//dont forget to change the file name
 public class JavaCalculator extends JFrame implements ActionListener {
     private JTextField inputField;
     private double num1, num2, result;
